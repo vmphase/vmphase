@@ -4,7 +4,7 @@ Previously worked mostly with repositories under NDA and used a self-hosted git 
 Prioritizing clever solutions, automating where it makes sense, and engaging honest discussions. 
 
 # Core Stack 
-[![PLStack](https://skillicons.dev/icons?i=ts,go,python,nodejs)](https://github.com/vmphase)
+[![PLStack](https://skillicons.dev/icons?i=go,ts,python,nodejs)](https://github.com/vmphase)
 
 # Familiarity (non-core)
 [![BaseStack](https://skillicons.dev/icons?i=c,kotlin,java,next)](https://github.com/vmphase)
