@@ -6,5 +6,5 @@ Prioritizing clever solutions, automating where it makes sense, and engaging hon
 # Core Stack 
 [![PLStack](https://skillicons.dev/icons?i=go,ts,python,nodejs)](https://github.com/vmphase)
 
-# Non-core Stack
+# Familiarity 
 [![BaseStack](https://skillicons.dev/icons?i=c,kotlin,java,rust)](https://github.com/vmphase)
